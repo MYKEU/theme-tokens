@@ -1,5 +1,7 @@
 # Theme token generation
 
+Generate theme constant values based on tokens using `style-dictionary`
+
 ##  Set up
 
 ```bash
