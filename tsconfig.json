@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./scripts",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "strict": true,
+    "module": "CommonJS",
+    "target": "es5",
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "useUnknownInCatchVariables": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "suppressImplicitAnyIndexErrors": true
+  }
+}

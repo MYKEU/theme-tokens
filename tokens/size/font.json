@@ -1,0 +1,18 @@
+{
+  "size": {
+    "font": {
+      "small" : {
+        "value": "10"
+      },
+      "medium": {
+        "value": "12"
+      },
+      "large" : {
+        "value": "14"
+      },
+      "base"  : {
+        "value": "{size.font.medium.value}"
+      }
+    }
+  }
+}

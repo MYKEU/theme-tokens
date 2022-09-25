@@ -1,0 +1,13 @@
+{
+  "color": {
+    "base": {
+      "grey": {
+        "light" : { "value": "#D3D3D3" },
+        "medium": { "value": "#6A6C6E" },
+        "dark"  : { "value": "#A9A9A9" }
+      },
+      "red": { "value": "#FF0000" },
+      "green": { "value": "#00FF00" }
+    }
+  }
+}
